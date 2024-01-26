@@ -1,6 +1,6 @@
 # Apology Page
 
-This is a simple apology page created using HTML and CSS, featuring a heartfelt message and animations. You can check out the live demo [here](https://hadep275.github.io/Flip-Text-Animation/).
+This is a simple app-ology page created using HTML and CSS, featuring a heartfelt message and animations. You can check out the live demo [here](https://hadep275.github.io/Appologies/).
 
 
 ## Getting Started
