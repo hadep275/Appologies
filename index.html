@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+    />
+    <title>Document</title>
+    <style>
+      body {
+        padding: 0;
+        margin: 0;
+        height: 100vh;
+        background-color: #000000;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+      .container{
+        display: flex;
+        gap: 20px;
+      }
+      .box{
+        background-color: #000000;
+      }
+      h1{
+        color: #95ff;
+        text-shadow: 0px 0px 20px #6b31ff;
+        font-family:'Courier New', Courier, monospace ;
+        font-size: 50px;
+      }
+      .box{
+        animation: move2 3s forwards ease-in-out;
+        border-left: 2px solid #fbff;
+      }
+      @keyframes move2 {
+        from{
+            margin-left: -610px;
+            width: 620px;
+        }
+        to{
+            margin-left: 0px;
+            width: 0px;
+        }
+        
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>
+        <i class="fa-solid fa-heart-crack" style="color: #ff0000"></i>
+        I AM SORRY !!!
+        <i class="fa-regular fa-face-sad-tear" style="color: #ff4d00"></i>
+      </h1>
+      <div class="box"></div>
+    </div>
+  </body>
+</html>
