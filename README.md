@@ -2,6 +2,8 @@
 
 This is a simple app-ology page created using HTML and CSS, featuring a heartfelt message and animations. You can check out the live demo [here](https://hadep275.github.io/Appologies/).
 
+[App-ology Demo Video](https://github.com/hadep275/Appologies/assets/65734173/55fc5142-facd-4bfe-87f8-b8fabd1c2c12)
+
 
 ## Getting Started
 
